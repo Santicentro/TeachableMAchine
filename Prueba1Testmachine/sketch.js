@@ -30,7 +30,7 @@ function modelLoaded() {
 
 function setup() {
   createCanvas(640, 480);
-  background(255);
+  background(255,0,0);
   modelLoaded();
 
   // Captura de video
